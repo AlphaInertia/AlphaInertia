@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a python on Speech Recognition and Translation using APIs and OpenAI Whisper Model.
+- 🔭 I’m currently working on a python project on Speech Recognition and Translation using APIs and OpenAI Whisper Model.
 - 🌱 I’m currently Python DSA and Competitive Programming.
 - 👯 I’m looking to collaborate on topics I am currently working on
 - 🤔 I’m looking for help with Better Guidance for Codes and there potential future opportunities 
