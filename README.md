@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on topics I am currently working on.
 - 🤔 I’m looking for help with Better Guidance on Cybersecurity and Networking.
 - 💬 Ask me about C , C++ , Assembly (8085, 8086, 8051 and Arduino), python.
-- 📫 How to reach me: Here's my email: inertiancyber@gmail.com
+- 📫 How to reach me: Here's my email: inertiancyber@gmail.com , kartik0411m@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Internet was introduced on 6th Aug 1991 making it only 33 years old.
 - 🔗 Main Repo : https://github.com/AlphaInertia/cybersec-foundation-Inertia
