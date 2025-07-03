@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The Internet was introduced on 6th Aug 1991 making it only 33 years old.
 - 🔗 Main Repo : https://github.com/AlphaInertia/cybersec-foundation-Inertia
+- 🤝 LinkedIn : www.linkedin.com/in/kartik-manurkar
 
